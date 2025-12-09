@@ -1,0 +1,6 @@
+[submodule "ISO-20022"]
+	path = ISO-20022
+	url = https://github.com/chris-day/ISO-20022
+[submodule "uml2semantics-python"]
+	path = uml2semantics-python
+	url = https://github.com/chris-day/uml2semantics-python
