@@ -4,3 +4,9 @@
 [submodule "docs/uml2semantics-python"]
 	path = docs/uml2semantics-python
 	url = https://github.com/chris-day/uml2semantics-python
+[submodule "docs/iso20022-ecore"]
+	path = docs/iso20022-ecore
+	url = https://github.com/chris-day/iso20022-ecore
+[submodule "docs/ontoportal-api"]
+	path = docs/ontoportal-api
+	url = https://github.com/chris-day/ontoportal-api
