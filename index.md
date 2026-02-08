@@ -2,18 +2,14 @@
 
 ## Canonical Documentation
 
-### ISO 20022
+### [ISO 20022](https://chris-day.github.io/ISO-20022/)
 Authoritative semantic models, ontologies, and derivations  
-→ https://chris-day.github.io/ISO-20022/
 
-### uml2semantics-python
+### [uml2semantics-python](https://chris-day.github.io/uml2semantics-python/)
 Model-to-semantics transformation tooling  
-→ https://chris-day.github.io/uml2semantics-python/
 
-### ontoportal-api
+### [ontoportal-api](https://chris-day.github.io/ontoportal-api/)
 OpenAPI and client library for OntoPortal/BioPortal APIs.
-Model-to-semantics transformation tooling  
-→ https://chris-day.github.io/ontoportal-api/
 
 ## Evidence & Traceability
 
