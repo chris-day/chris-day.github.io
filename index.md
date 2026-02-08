@@ -11,6 +11,9 @@ Model-to-semantics transformation tooling
 ### [ontoportal-api](https://chris-day.github.io/ontoportal-api/)
 OpenAPI and client library for OntoPortal/BioPortal APIs.
 
+### [iso20022-ecore](https://chris-day.github.io/iso20022-ecore/)
+eCore manipluation CLI for the ISO 20022 Repo
+
 ## Evidence & Traceability
 
 All documentation versions are pinned via Git submodules in this repository.
