@@ -2,7 +2,7 @@
 
 ## Canonical Documentation
 
-### [ISO 20022](https://chris-day.github.io/ISO-20022/)
+### [ISO 20022](https://github.com/chris-day/ISO-20022/)
 Authoritative semantic models, ontologies, and derivations  
 
 ### [uml2semantics-python](https://chris-day.github.io/uml2semantics-python/)
