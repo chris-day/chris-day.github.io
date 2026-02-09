@@ -14,6 +14,9 @@ OpenAPI and client library for OntoPortal/BioPortal APIs.
 ### [iso20022-ecore](https://chris-day.github.io/iso20022-ecore/)
 eCore manipluation CLI for the ISO 20022 Repo
 
+### [owl2vault](https://chris-day.github.io/owl2vault/) 
+OWL2Vault Generation of multiple static sites from an OWL Ontology
+
 ## Evidence & Traceability
 
 All documentation versions are pinned via Git submodules in this repository.
