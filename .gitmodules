@@ -10,3 +10,6 @@
 [submodule "docs/ontoportal-api"]
 	path = docs/ontoportal-api
 	url = https://github.com/chris-day/ontoportal-api
+[submodule "docs/owl2vault"]
+	path = docs/owl2vault
+	url = https://github.com/chris-day/owl2vault
